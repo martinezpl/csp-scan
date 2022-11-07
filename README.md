@@ -4,7 +4,9 @@
 
 Includes a warning system for unencrypted HTTP connections.
 
+## What is CSP and why is it essential for a website's security?
 
+https://www.cobalt.io/blog/csp-and-bypasses
 
 # Installation
 
